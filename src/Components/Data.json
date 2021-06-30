@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Phạm Ngọc Chiến",
+        "tel": "0917462471",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Nguyễn Ánh Dương",
+        "tel": "0917462471",
+        "permission": 2
+    },
+    {
+        "id": 3,
+        "name": "Cung Ánh Tú",
+        "tel": "0917462471",
+        "permission": 2
+    },
+    {
+        "id": 4,
+        "name": "Bùi Xuân Ngọc",
+        "tel": "0917462471",
+        "permission": 2
+    },
+    {
+        "id": 5,
+        "name": "Nguyễn Quốc Vương",
+        "tel": "0917462471",
+        "permission": 3
+    },
+    {
+        "id": 6,
+        "name": "Phạm Văn Lương",
+        "tel": "0917462471",
+        "permission": 3
+    }
+]
